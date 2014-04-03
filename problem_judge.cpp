@@ -1,3 +1,13 @@
+/* *
+ * Modified Problem Master Judge for Sum-Of-Points scoring for the SPOJ platform.
+ * This program returns AC for a submission if it passed all tests. Otherwise
+ * it returns the appropriate error code. 
+ * In all cases, it returns along the percentage (0 - 100) of passed tests.
+ *
+ *
+ * Modification by Roberto Abreu 
+ */
+
 #include <spoj.h>
 #include <cstdio>
 
